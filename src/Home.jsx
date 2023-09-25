@@ -3,7 +3,7 @@ import Header from './Header.jsx'
 
 const Home = () => {
     return (
-        <div className="m-10">
+        <div className="lg:m-10">
             <AllCards></AllCards>
         </div>
     );

@@ -1,8 +1,9 @@
-# React + Vite
+3 Features of This Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Homepage:
+This project has an engaging homepage which provides an overview of the website.  This homepage has some amazing navbar , search bar and different donation infomartion.
 
-Currently, two official plugins are available:
+2. Responsive Design:
+Responsive design is another project feature . A user can access to this website by using large device, medium device and small device. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. 

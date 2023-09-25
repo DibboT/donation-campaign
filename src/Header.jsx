@@ -5,7 +5,7 @@ const Header = () => {
         <div>
             
             <div className="flex justify-between m-10 p-4">
-            <img src="https://i.ibb.co/vhKCXvq/donationlogo.png"/>
+            <img className="w-14 md:w-[200px]" src="https://i.ibb.co/vhKCXvq/donationlogo.png"/>
             {/* <div className="flex"> 
                     <img src="/resources/logo.png" />
                     <div>
@@ -17,9 +17,9 @@ const Header = () => {
                 </div> */}
                 
                 <div className="flex gap-4 list-none">
-                    <li><NavLink to="/">Home</NavLink></li>
-                    <li><NavLink to="/donation">Donation</NavLink></li>
-                    <li><NavLink to="/Statistics">Statistics</NavLink></li>                 
+                    <li className="text-sm md:text-xl"><NavLink to="/">Home</NavLink></li>
+                    <li className="text-sm md:text-xl"><NavLink to="/donation">Donation</NavLink></li>
+                    <li className="text-sm md:text-xl"><NavLink to="/Statistics">Statistics</NavLink></li>                 
                 </div>
 
 

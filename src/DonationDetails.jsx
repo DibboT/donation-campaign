@@ -9,15 +9,15 @@ const DonationDetails = () => {
     console.log(donations, id)
     return (
         <div>
-            <div>
-                <div className="card card-compact w-[85%] bg-base-100 shadow-xl m-auto">
-                    <figure><img className="m-auto" src={donation.image} alt="Shoes" /></figure>
-                    <div className="card-actions justify-end">
-                            <button className="btn btn-primary">Buy Now</button>
+            <div className="my-10">
+                <div className="card card-compact w-[85%] bg-base-100 shadow-xl m-auto relative bg-blend-overlay">
+                    <figure><img className="m-auto bg-blend-color-[#0b0b0b80]" src={donation.image} alt="" /></figure>
+                    <div className="absolute right-[53%] top-[40%]">
+                            <button className="bg-red-400 px-2 text-md text-white cursor-pointer">Donate ${donation.price}</button>
                         </div>
                     <div className="card-body">
-                        <h2 className="card-title text-3xl font-bold">{donation.title}</h2>
-                        <p>{donation.description}</p>
+                        <h2 className="card-title text-3xl font-bold px-4 py-4">{donation.title}</h2>
+                        <p className="px-4 pb-10">{donation.description}</p>
                        
                     </div>
                 </div>
