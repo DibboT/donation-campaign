@@ -1,19 +1,25 @@
 import { useLoaderData, useParams } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { saveDonation } from "./LocalStorage";
 
 
 const DonationDetails = () => {
     const donations = useLoaderData();
-    const { id } = useParams();
+    const { id } = useParams(); 
     const idInt = parseInt(id);
     let donation = donations.find(donation => donation.id == idInt);
+    console.log(idInt)
  
+    
+ const handleDonate = () => {
+   
+    saveDonation(idInt);
+    toast('You Have Donated For This Campaign, Thank You')   
 
- const handleDonate = () => toast('You Have Donated For This Campaign, Thank You')   
-
-
-
+ }
+ 
+ 
 
     return (
         <div>

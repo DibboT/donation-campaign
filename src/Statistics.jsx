@@ -9,9 +9,9 @@ const Statistics = () => {
     ];
     return (
         <div>
-            <div className="ml-[30%]">
-                <PieChart width={500} height={500}>
-                    <Pie data={data} dataKey="students" outerRadius={250} fill="green" />  
+            <div className="ml-[40%]">
+                <PieChart width={300} height={300}>
+                    <Pie data={data} dataKey="students" outerRadius={150} fill="green" />  
                 </PieChart>          
             </div>
             <div className="flex justify-around my-10">
