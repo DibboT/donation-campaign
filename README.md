@@ -6,4 +6,5 @@ This project has an engaging homepage which provides an overview of the website.
 2. Responsive Design:
 Responsive design is another project feature . A user can access to this website by using large device, medium device and small device. 
 
-3. 
+3. Toast Message:
+This project has a toast message feature after donating something 
