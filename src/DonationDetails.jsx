@@ -9,7 +9,7 @@ const DonationDetails = () => {
     const { id } = useParams();
     const idInt = parseInt(id);
     let donation = donations.find(donation => donation.id == idInt);
-    console.log(idInt)
+  
 
 
     const handleDonate = () => {

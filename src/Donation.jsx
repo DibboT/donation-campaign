@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
 import { useLoaderData } from "react-router-dom";
-
+import Card from "./Card";
 import { getSaveDonatedCard } from "./LocalStorage";
 import DonatedCard from "./DonatedCard";
+
 
 
 const Donation = () => {
@@ -21,10 +22,8 @@ const Donation = () => {
     }, [])
     return (
         <div>
-            <div className="">
-                
-                
-                {donation.map(donation => <DonatedCard key={donation.id} donatedcard={donation}></DonatedCard>)}
+            <div className="grid grid-cols-2">
+                {donation.map(donation => <DonatedCard key={donation.id} donatedCard={donation}></DonatedCard>)}
             </div>
 
             
