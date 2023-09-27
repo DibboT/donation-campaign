@@ -6,6 +6,7 @@
     "category_bg": "#0052ff33",
     "background_color": "#0052ff26",
     "title": "Clean water for children",
+    "title_color": "#0052FF",
     "title_button_color":"#0052FF",
     "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potentia",
     "price": "200"
@@ -17,6 +18,7 @@
     "category_bg": "#ff444a33",
     "background_color": "#ff444a26",
     "title": "Good Education",
+    "title_color": "#FF444A",
     "title_button_color":"#0052FF",
     "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potentia",
     "price": "200"
@@ -28,6 +30,7 @@
     "category_bg": "#79c23f33",
     "background_color": "#79c23f26",
     "title": "Used Clothing Drive",
+    "title_color": "#79C23F",
     "title_button_color":"#0052FF",
     "description": "Give underprivileged students access to quality education through scholarships.",
     "price": "200"
@@ -39,6 +42,7 @@
     "category_bg": "#f8714733",
     "background_color": "#f8714726",
     "title": "Better Food For Everyone",
+    "title_color": "#F87147",
     "title_button_color":"#0052FF",
     "description": "Donate supplies to schools to support students and teachers.",
     "price": "200"
@@ -50,6 +54,7 @@
     "category_bg": "#f8714733",
     "background_color": "#f8714726",
     "title": "Better Food For Everyone",
+    "title_color": "#F87147",
     "title_button_color":"#0052FF",
     "description": "Provide warm clothing to those facing harsh winters.",
     "price": "200"
@@ -61,6 +66,7 @@
     "category_bg": "#79c23f33",
     "background_color": "#79c23f26",
     "title": "Used Clothing Drive",
+    "title_color": "#79C23F",
     "title_button_color":"#0052FF",
     "description": "Help individuals dress professionally for job interviews and work.",
     "price": "200"
@@ -72,6 +78,7 @@
     "category_bg": "#ff444a33",
     "background_color": "#ff444a26",
     "title": "Food Bank Donations",
+    "title_color": "#FF444A",
     "title_button_color":"#0052FF",
     "description": "Contribute to food banks to alleviate hunger in your community.",
     "price": "200"
@@ -83,6 +90,7 @@
     "category_bg": "#0052ff33",
     "background_color": "#0052ff26",
     "title": "Clean water for children",
+    "title_color": "#0052FF",
     "title_button_color":"#0052FF",
     "description": "Sponsor meals for homeless and low-income individuals.",
     "price": "200"
@@ -94,6 +102,7 @@
     "category_bg": "#0052ff33",
     "background_color": "#0052ff26",
     "title": "Clean water for children",
+    "title_color": "#0052FF",
     "title_button_color":"#0052FF",
     "description": "Support research for medical breakthroughs and cures.",
     "price": "200"
@@ -105,6 +114,7 @@
     "category_bg": "#ff444a33",
     "background_color": "#ff444a26",
     "title": "Library Expansion Project",
+    "title_color": "#FF444A",
     "title_button_color":"#0052FF",
     "description": "Expand libraries in underserved areas to promote education.",
     "price": "200"
@@ -116,6 +126,7 @@
     "category_bg": "#79c23f33",
     "background_color": "#79c23f26",
     "title": "Used Clothing Drive",
+    "title_color": "#79C23F",
     "title_button_color":"#0052FF",
     "description": "Donate clothing for children in need.",
     "price": "250"
@@ -127,6 +138,7 @@
     "category_bg": "#f8714733",
     "background_color": "#f8714726",
     "title": "Better Food For Everyone",
+    "title_color": "#F87147",
     "title_button_color":"#0052FF",
     "description": "Help establish community gardens to grow fresh produce.",
     "price": "200"

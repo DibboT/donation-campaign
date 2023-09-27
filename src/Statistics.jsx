@@ -15,8 +15,13 @@ const Statistics = () => {
                 </PieChart>          
             </div>
             <div className="flex justify-around my-10">
+                <div>
                 <h3>Your Donation</h3>
+                </div>
+                <div>
                 <h3>Total Donation</h3>
+                </div>
+                
                 </div>
 
         </div>
